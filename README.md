@@ -1,0 +1,2 @@
+# mariocart
+vanilla js app
